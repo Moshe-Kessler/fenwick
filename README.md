@@ -1,6 +1,6 @@
 # Fenwick
 
-Implementation of binary indexed tree/fenwick tree.
+npm package for fenwick tree.
 
 ## Usage
 
