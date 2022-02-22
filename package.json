@@ -1,0 +1,17 @@
+{
+  "name": "fenwick",
+  "version": "1.0.5",
+  "description": "A fenwick tree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary indexed tree",
+    "fenwick tree",
+    "arrays"
+  ],
+  "author": "<moshe@kessler.tech>",
+  "license": "MIT",
+  "repository": "https://github.com/Moshe-Kessler/fenwick"
+}
